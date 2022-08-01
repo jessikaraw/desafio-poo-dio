@@ -1,5 +1,4 @@
 Desafio: Aprenda na Prática Programação Orientada a Objetos
-
 Este é o meu primeiro desafio utilizando Orientação a Objetos.
 Eu estou compartilhando a explicação da Camila Cavalcante (https://github.com/cami-la) aqui no README. Foi ela quem critou o desafio, e eu fico muito feliz em ter participado dele.
 
